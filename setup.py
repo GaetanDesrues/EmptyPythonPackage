@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="packageName",
     version="0.1.000",
-    author="Author Name",
-    author_email="Author Mail",
+    author="Gaetan Desrues",
+    author_email="gaetan.desrues@inria.fr",
     description="Description",
     long_description=long_description,
     long_description_content_type="text/markdown",
