@@ -1,14 +1,13 @@
-
-
 class Class:
     """ Documentation
     """
+
     def __init__(self):
         pass
 
-    def function(self, arg):
+    def function(self, arg: int):
         """ Simple function
 
-            :param type arg: Function argument
+            :param int arg: Function argument
         """
         pass
