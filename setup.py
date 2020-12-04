@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="packageName",
-    version="0.1.000",
+    version="0.1.002",
     author="Gaetan Desrues",
     author_email="gaetan.desrues@inria.fr",
     description="Description",
