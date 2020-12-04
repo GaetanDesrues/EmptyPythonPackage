@@ -1,1 +1,1 @@
-# README: package documentation
+# README: packageName documentation

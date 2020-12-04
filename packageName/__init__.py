@@ -1,1 +1,1 @@
-from .module import Class
+from packageName.module import Class
