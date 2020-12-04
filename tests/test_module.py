@@ -2,7 +2,7 @@ import unittest
 from packageName.module import Class
 
 
-class TestStringMethods(unittest.TestCase):
+class TestModule(unittest.TestCase):
     def test_function(self):
         c = Class()
         self.assertIsNone(c.function(0))
