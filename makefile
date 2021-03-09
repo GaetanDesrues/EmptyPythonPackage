@@ -11,4 +11,4 @@ git :
 	git push origin master
 
 pip :
-	python3 -m pip install --upgrade --user packageName
+	pip install --upgrade packageName
