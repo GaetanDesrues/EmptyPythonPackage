@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="packageName",
-    version="0.1.002",
-    author="Gaetan Desrues",
-    author_email="gaetan.desrues@inria.fr",
+    version="0.1.000",
+    # author="",
+    # author_email="",
+    # url="",
     description="Description",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="Git link",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
