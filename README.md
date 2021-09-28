@@ -27,3 +27,10 @@ To upload to pypi,
 ```
 make
 ```
+
+## Install
+```bash
+pip install packageName
+pip install -e <path-to-repo>/packageName
+pip install git+ssh://git@github.com/<path-to-repo>.git
+```
