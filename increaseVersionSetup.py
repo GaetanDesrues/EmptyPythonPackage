@@ -1,6 +1,6 @@
 import re
 
-with open("setup.py", "r") as f:
+with open("setup.py") as f:
     file = f.read()
 
 m = re.search('version="(.+?)"', file)

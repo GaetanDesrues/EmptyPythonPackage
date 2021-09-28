@@ -1,4 +1,4 @@
-# README: packageName documentation
+# packageName
 
 ## Setup
 
